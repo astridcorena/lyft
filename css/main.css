@@ -1,3 +1,141 @@
-/*
- * Estilos de tu proyecto
- */
+.titulo_header {
+  margin-top:55px;
+}
+
+body {
+margin:0px;
+background: #331148;
+background-image:url(assets/images/hero.gif);
+background-repeat: no-repeat;
+}
+
+#header {
+width: 90%;
+height: 115px;
+display: inline-table;
+color: #fff;
+}
+
+#navbar {
+  width: 90%;
+  height: 115px;
+  display: inline-table;
+  color: #fff;
+}
+
+.img-header {
+  margin-left: 100px;
+  margin-top: 20px;
+  float:left;
+}
+
+
+.drive {
+  margin-left: 540px;
+  margin-top: 55px;
+  float: left;
+  font-size: 18px;
+  font-family: Montserrat;
+}
+
+.explore, .help {
+  margin-left: 80px;
+  margin-top: 55px;
+  float: left;
+  font-size: 18px;
+  font-family: Montserrat;
+}
+
+
+.login {
+  margin-left:70px;
+  margin-top:55px;
+  float:left;
+  font-size: 18px;
+  font-family: Montserrat;
+}
+
+#container {
+ width: 100%;
+ height: auto;
+ background: #0ff;"
+}
+
+.space {
+ float: left;
+ width: 100%;
+ height: auto;
+}
+
+.square {
+float: right;
+width: 560px;
+height: 419px;
+background:#fff;"
+}
+
+.square > h1 {
+  font-family: Montserrat;
+  color: #483D8B;
+  text-align: center;
+
+}
+
+.square > h4 {
+  font-family: Montserrat;
+  color: #483D8B;
+  font-weight: lighter;
+  text-align: center;
+}
+
+#phone_space {
+  float:left;
+  width:100%;
+  height:500px;"
+}
+
+#phone_square {
+  float: left;
+  width: 560px;
+  height: 419px;
+  color: #fff;"
+}
+
+.ride {
+  padding:80px;
+  font-family: Montserrat;
+}
+
+.ride > h1 > p {
+  padding: 20px;
+}
+
+#square2 {
+  float:right;
+  width:560px;
+  height:419px;
+}
+
+.space2 {
+  float:left;
+  width:100%;
+  height:auto;
+}
+
+#square_text {
+  float:left;
+  width:480px;
+  height:419px;
+  color:#fff;"
+}
+
+.stylesquare {
+  margin-left: 100px;
+}
+
+.img-square {
+  float:right;
+  width:850px;
+  height:490px;
+  background:#ff0000;
+}
